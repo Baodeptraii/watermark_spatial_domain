@@ -1,0 +1,1 @@
+Hello PTIT, this is secret message for watermark-spatial-domain demo !!!
