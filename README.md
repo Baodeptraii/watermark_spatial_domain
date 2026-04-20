@@ -1,1 +1,1 @@
-Demo 
+## Dự án mã nguồn mở bằng Python hỗ trợ nhúng, trích xuất và đánh giá chất lượng (thông qua PSNR, NCC) thủy vân số trên ảnh ở miền không gian, phục vụ cho quá trình nghiên cứu và thực hành chuyên ngành An toàn thông tin tại Học viện Công nghệ Bưu chính Viễn thông (PTIT).
